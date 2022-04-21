@@ -1,2 +1,2 @@
 # textsummarizer-NLP
-<a href="/Preview.pdf">PREVIEW</a>
+<a href="/Preview.pdf">Preview</a>
